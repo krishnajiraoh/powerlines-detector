@@ -1,2 +1,5 @@
-
-model/*
+model/1000epochs/*
+model/ablation/*
+model/adam_optimizer_with_lr/*
+model/sgd_optimizer/*
+model/unet_3d_model/*
